@@ -21,13 +21,13 @@ A PowerShell automation script that collects system performance metrics (CPU, me
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/aws-s3-performance-logger.git
+    git clone [https://github.com/A-zook/log-to-s3.git]
     cd aws-s3-performance-logger
     ```
 
 2. Open PowerShell and run:
     ```powershell
-    .\aws-s3-logger.ps1
+    .\aws-s3-bucket.ps1
     ```
 
 3. View the uploaded log or access it via the printed pre-signed URL.
